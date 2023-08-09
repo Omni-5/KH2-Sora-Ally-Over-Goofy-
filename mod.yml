@@ -29,7 +29,7 @@ assets:
  - name: 03system.bin
    method: binarc
    source:
-   - name: sklt #Relocate Twilight Thorn HP Bonus
+   - name: sklt 
      type: list
      method: listpatch
      source:
