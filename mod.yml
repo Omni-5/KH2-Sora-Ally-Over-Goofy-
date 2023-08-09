@@ -34,4 +34,4 @@ assets:
      method: listpatch
      source:
      - name: SkltList.yml
-       type: bons
+       type: sklt
