@@ -26,3 +26,11 @@ assets:
    method: copy
    source:
      - name: obj/W_EX030.a.us
+ - name: 03system.bin
+   method: binarc
+   source:
+   - name: sklt
+     type: list
+     method: listpatch
+     source:
+       - name: 03system.bin/SkltList.yml
